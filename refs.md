@@ -1,0 +1,3 @@
+- https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
+- https://github.com/karanpratapsingh/system-design
+- https://www.designgurus.io/blog
