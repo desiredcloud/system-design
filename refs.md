@@ -1,3 +1,7 @@
 - https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
 - https://github.com/karanpratapsingh/system-design
 - https://www.designgurus.io/blog
+- https://www.linkedin.com/pulse/scalability-design-principles-lars-larsson/
+- https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/ch01.html
+- https://aosabook.org/en/v2/distsys.html
+- https://gortonator.github.io/bsds-6650/reading/chapter-1.pdf
