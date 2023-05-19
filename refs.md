@@ -5,3 +5,4 @@
 - https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/ch01.html
 - https://aosabook.org/en/v2/distsys.html
 - https://gortonator.github.io/bsds-6650/reading/chapter-1.pdf
+- https://interviewpen.com/ - https://www.youtube.com/@interviewpen
